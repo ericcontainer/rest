@@ -1,2 +1,2 @@
 # rest
-Projet Rest FrameWork Django Automação
+Projeto Rest FrameWork Django Automação
